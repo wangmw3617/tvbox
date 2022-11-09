@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "clan://tvboxhh/1106fty_a/custom_spider.jar",
+  "spider": "https://raw.githubusercontent.com/wangmw3617/tvbox/main/custom_spider.jar",
   "sites": [
     {
       "key": "18",
